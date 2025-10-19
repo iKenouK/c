@@ -130,3 +130,14 @@ int main() {
   }
   return 0;
 }
+
+
+
+
+
+
+
+
+// to run the code do :
+
+//  g++ cube.cpp -o cube && ./cube.cpp
